@@ -5,7 +5,7 @@ The class is taught by Computer Science and Engineering faculty and graduate stu
 ## Instructors
 
 - [Dr. Josh Nahum](http://www.nahum.us/)
-  * Teaching Specialist
+  * Professor of Instruction
   * Computer Science and Engineering
   * [nahumjos@msu.edu](nahum@cse.msu.edu)
 - [Austin Ferguson](http://fergusonaj.com/)
@@ -13,3 +13,8 @@ The class is taught by Computer Science and Engineering faculty and graduate stu
   * Computer Science and Engineering
   * Ecology, Evolutionary Biology, and Behavior
   * [fergu358@msu.edu](fergu358@msu.edu)
+- Max Foreback
+  * Graduate Student
+  * Computer Science and Engineering
+  * Ecology, Evolutionary Biology, and Behavior
+ 
