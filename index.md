@@ -4,17 +4,17 @@ The class is taught by Computer Science and Engineering faculty and graduate stu
 
 ## Instructors
 
-- [Dr. Josh Nahum](http://www.nahum.us/)
-  * Professor of Instruction
-  * Computer Science and Engineering
-  * [nahumjos@msu.edu](nahum@cse.msu.edu)
-- [Austin Ferguson](http://fergusonaj.com/)
-  * Graduate Student
+- [Dr. Austin Ferguson](http://fergusonaj.github.io)
+  * Former grad student, entering faculty at Grand Valley State University
   * Computer Science and Engineering
   * Ecology, Evolutionary Biology, and Behavior
   * [fergu358@msu.edu](fergu358@msu.edu)
-- Max Foreback
-  * Graduate Student
+- [Max Foreback](https://max-foreback.github.io/)
+  * PhD Student
+  * Computer Science and Engineering
+  * Ecology, Evolutionary Biology, and Behavior
+- Karen Suzue
+  * PhD Student
   * Computer Science and Engineering
   * Ecology, Evolutionary Biology, and Behavior
  
